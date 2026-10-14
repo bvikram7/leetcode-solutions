@@ -15,4 +15,16 @@ My LeetCode solutions and problem-solving practice in Java.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bvikram7/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/bvikram7/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/bvikram7/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/bvikram7/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
