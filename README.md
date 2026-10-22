@@ -6,6 +6,7 @@ My LeetCode solutions and problem-solving practice in Java.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bvikram7/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/bvikram7/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 ## String
 |  |
@@ -36,4 +37,12 @@ My LeetCode solutions and problem-solving practice in Java.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bvikram7/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bvikram7/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bvikram7/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
